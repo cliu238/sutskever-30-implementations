@@ -86,6 +86,12 @@ jupyter notebook 02_char_rnn_karpathy.ipynb
 | 29 | Retrieval-Augmented Generation | ✅ `29_rag.ipynb` | RAG-Sequence, RAG-Token, Knowledge retrieval |
 | 30 | Lost in the Middle | ✅ `30_lost_in_middle.ipynb` | Position bias, Long context, U-shaped curve |
 
+### Bonus: Multimodal (Beyond the Original 30)
+
+| # | Paper | Notebook | Key Concepts |
+|---|-------|----------|--------------|
+| 31 | **CLIP** (Radford et al., 2021) | ✅ `31_clip_multimodal.ipynb` | Contrastive image-text learning, InfoNCE, Zero-shot classification, Dual encoders |
+
 ## Featured Implementations
 
 ### 🌟 Must-Read Notebooks
