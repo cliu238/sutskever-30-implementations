@@ -94,6 +94,8 @@ jupyter notebook 02_char_rnn_karpathy.ipynb
 | 32 | **ViT** (Dosovitskiy et al., 2020) | ✅ `32_vision_transformer.ipynb` | Patch embedding, [CLS] token, Position embeddings, Attention visualization, Data hunger |
 | 33 | **BLIP-2 / Flamingo** (Li et al., 2023; Alayrac et al., 2022) | ✅ `33_blip2_flamingo_bridging.ipynb` | Modality bridging, Q-Former, Frozen towers, Gated cross-attention |
 | 34 | **LLaVA** (Liu et al., 2023) | ✅ `34_llava_instruction_tuning.ipynb` | Visual instruction tuning, Linear projection bridge, Two-stage training, Visual tokens |
+| 35 | **DDPM + Classifier-Free Guidance** (Ho et al., 2020; Ho & Salimans, 2022) | ✅ `35_diffusion_text_to_image.ipynb` | Text-to-image diffusion, Denoising, Guidance scale, Prompt adherence |
+| 36 | **Chameleon** (Meta, 2024) | ✅ `36_chameleon_unified_multimodal.ipynb` | Early fusion, VQ image tokens, Unified understanding + generation, One transformer |
 
 ## Featured Implementations
 
