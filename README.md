@@ -91,6 +91,9 @@ jupyter notebook 02_char_rnn_karpathy.ipynb
 | # | Paper | Notebook | Key Concepts |
 |---|-------|----------|--------------|
 | 31 | **CLIP** (Radford et al., 2021) | ✅ `31_clip_multimodal.ipynb` | Contrastive image-text learning, InfoNCE, Zero-shot classification, Dual encoders |
+| 32 | **ViT** (Dosovitskiy et al., 2020) | ✅ `32_vision_transformer.ipynb` | Patch embedding, [CLS] token, Position embeddings, Attention visualization, Data hunger |
+| 33 | **BLIP-2 / Flamingo** (Li et al., 2023; Alayrac et al., 2022) | ✅ `33_blip2_flamingo_bridging.ipynb` | Modality bridging, Q-Former, Frozen towers, Gated cross-attention |
+| 34 | **LLaVA** (Liu et al., 2023) | ✅ `34_llava_instruction_tuning.ipynb` | Visual instruction tuning, Linear projection bridge, Two-stage training, Visual tokens |
 
 ## Featured Implementations
 
